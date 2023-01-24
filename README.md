@@ -20,6 +20,6 @@ There are 2 properties of the env.
  
  ####### Tensorboard #######
  
- ![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20score.png)
+ <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20score.png" width="500">
  
- ![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png)
+  <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png" width="500">
