@@ -25,6 +25,7 @@ For each episode, if the agent falls or get the goal , it restarts
 
 This graph represents the model score,
 I train it 10 times on 1e4 episodes. Each training is represented by a color, and the gray curve represent the global training.
+
 <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png" width="500">
  
  
@@ -34,6 +35,7 @@ I train it 10 times on 1e4 episodes. Each training is represented by a color, an
  
  Compared to the slippery model, the non slippery, does not need a lot of trains to succeed. 
  And the more we train it, the faster it is (less episode length), and it also has a better score.
+ 
  <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20score.png" width="500">
  
  <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png" width="500">
