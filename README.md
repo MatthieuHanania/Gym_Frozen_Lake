@@ -12,9 +12,14 @@ There are 2 properties of the env.
  
  __The slippery model need more training to obtain a good score__
  
- ####### Tensorboard #######
- 
+####### Tensorboard #######
+
+![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/slippery%20agent%20score.png)
  
  __The non slippery model is more efficient__
  
  ####### Tensorboard #######
+ 
+ ![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20score.png)
+ 
+ ![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png)
