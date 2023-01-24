@@ -39,3 +39,5 @@ I train it 10 times on 1e4 episodes. Each training is represented by a color, an
  <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20score.png" width="500">
  
  <img src="https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/non%20slippery%20agent%20mean%20episode%20lenght.png" width="500">
+ 
+ Matthieu Hanania
