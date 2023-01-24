@@ -1,7 +1,7 @@
 # Gym_Frozen_Lake
 I train an agent on the gym frozen lake environment 
 
-https://www.gymlibrary.dev/_images/frozen_lake.gif
+![](https://www.gymlibrary.dev/_images/frozen_lake.gif)
 
 The environment description is available here : https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
 
