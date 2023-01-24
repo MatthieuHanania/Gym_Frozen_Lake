@@ -14,7 +14,7 @@ There are 2 properties of the env.
  
 ####### Tensorboard #######
 
-![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/slippery%20agent%20score.png)
+![](https://github.com/MatthieuHanania/Gym_Frozen_Lake/blob/main/slippery%20agent%20score.png| width=100)
  
  __The non slippery model is more efficient__
  
